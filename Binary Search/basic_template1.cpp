@@ -29,7 +29,7 @@ int binarySearch(vector<int>& v, int Element)
    return -1;
 }
 
-// Input parameters...
+// Input parameters....
 
 void generateTest(vector<int>& v, int n){
 
